@@ -1,6 +1,6 @@
 ## 👋 Olá, Que bom ver Você aqui!
 
-Meu nome é **André** tenho **14 anos** e gosto de me aventurar programando bots para **Discord**. *(Tag do Discord: !✨Pitzinho o Falido do Dc💸#9999)*
+Meu nome é **André** tenho **14 anos** e gosto de me aventurar programando bots para **Discord**. *(Tag do Discord: !✨Pitzinho o Falido do Dc💸#5101)*
 
 ![Discord](https://discord.c99.nl/widget/theme-1/698880198510248006.png)
 
