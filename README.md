@@ -3,6 +3,9 @@
 Meu nome é **André** tenho **14 anos** e gosto de me aventurar no mundo da programação.
 
 ![Discord](https://discord.c99.nl/widget/theme-1/698880198510248006.png)
+<a href="https://discord.com/users/698880198510248006">
+        <img alt="Discord" src="https://img.shields.io/badge/gr™%231511-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
+    </a>
 
 ### Meus Status do GitHub:
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
